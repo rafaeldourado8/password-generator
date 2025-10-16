@@ -20,7 +20,7 @@ Este é um script de linha de comando (CLI) construído em Python para gerar sen
 ## Como Usar
 
 1.  **Clone o repositório:**
-    ```bash
+    ```bash"'
     cd password-generator
     ```
 
